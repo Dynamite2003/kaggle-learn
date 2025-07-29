@@ -6,5 +6,6 @@ readme = "README.md"
 requires-python = ">=3.13"
 dependencies = [
     "ipykernel>=6.30.0",
+    "learntools>=0.0.20",
     "pandas>=2.3.1",
 ]
